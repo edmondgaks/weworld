@@ -1,2 +1,2 @@
-# OMNIFOOD
-Omnifood repository.
+# WEWORLD
+WEWORLD repository.
